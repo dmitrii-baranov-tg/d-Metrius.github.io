@@ -1,1 +1,18 @@
 remote_theme: sharu725/online-cv
+title: Dmitry Baranov CV
+url: 'http://d-Metrius.github.io'
+#baseurl: '/online-cv'
+description: Dmitry Baranov CV
+theme_skin: ceramic # blue turquoise green berry orange ceramic
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+compress-site: yes
+
+encoding: "utf-8"
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
