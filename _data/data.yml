@@ -1,0 +1,261 @@
+sidebar:
+    about: False
+    education: True
+
+    name: Dmitry Baranov
+    tagline: Senior Backend Developer
+    avatar: profile.png
+
+    email: dmitry@baranov.in
+    phone: "+79030131616"
+    website: baranov.in
+    linkedin: dmetrius
+    github: d-Metrius
+    telegram: dMetrius
+    twitter: '@ddMetrius'
+
+    languages:
+      - idiom: Russian
+        level: Native
+
+      - idiom: English
+        level: Fluent
+
+      - idiom: Italian
+        level: Basic
+
+    interests:
+      - item: Running
+        link: https://www.strava.com/athletes/d-metrius
+
+      - item: Cycling (MTB)
+        link: https://www.strava.com/athletes/d-metrius
+
+      - item: DIY electronics
+        link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Total IT work experience: 14 years.
+      
+      My first big project was development of MES and WMS systems at a Samsung Electronics
+      production factory in Kaluga region, Russia. It was done as several intranet websites
+      with an active usage of barcode scanners, barcode printers and RFID equipment. It
+      took a team of five developers 3 years to fully develop a MES, WMS and an intranet
+      system for local staff.
+      
+      Then I've joined netPrint.ru as a senior developer and quickly became backend lead in
+      charge of a MES system for printing workflow. My team successfully completed several
+      tasks, such as: print optimization (minimizing waste, optimal image placement),
+      refactoring a legacy multilanguage system into several major components within a
+      single technology stack.
+      
+      Worked at Mail.Ru Group - one of the largest IT companies in Russia, in a food
+      delivery project - Delivery Club. My responsibilities were: creating new and
+      modifying existing microservices.
+      
+      Took a major part in a project involving refactoring a legacy CRM system for real
+      estate companies in Switzerland - RealForce Solutions SA, into a modern stack
+      application with advanced property search mechanisms and complete tests coverage.
+
+experiences:
+    - role: Senior Back-End Engineer (Remote)
+      time: March 2021 - Present
+      company: TransferGo, London, UK
+      details: |
+        **CoreBanking team** - development of core banking services with TDD and DDD in mind.
+
+        ---
+    - role: Remote Senior PHP Developer
+      time: August 2019 - March 2021
+      company: RealForce Solutions SA, Lausanne, Switzerland
+      details: |
+        Refactoring a legacy CRM system into a modern Symfony application with a modern
+        property search engine and complete tests coverage.
+
+        **Stack:** PHP 7.4, Symfony 4 LTS, API Platform (later removed), Go, MySQL, Redis,
+        ElasticSearch, Docker, k8s.
+
+        ---
+    - role: Senior Developer
+      time: December 2018 - June 2019
+      company: Mail.Ru Group (Delivery Club), Moscow, Russian Federation
+      details: |
+        **Logistics team** - development of new and modifying existing microservices.
+        Improving tests coverage. Porting/creating OpenAPI documentation.
+
+        **Stack:** PHP 7, Symfony 3, MySQL, PostgreSQL, Redis, RabbitMQ, Docker.
+
+        ---
+    - role: Senior PHP Developer / PHP Team Lead / Head of BE
+      time: December 2015 - December 2018
+      company: netPrint.ru, Moscow, Russian Federation
+      details: |
+        MES team - refactoring of a legacy MES system (PHP 5, Java, C++, Delphi, Lua,
+        PL/pgSQL) into several modern PHP applications, system architecture, integration
+        with printing, cutting, folding, cover-glueing equipment.
+
+        Printing process optimizations: knapsack problem, cutting stock problem.
+
+        SCRUM master. Managed a team of 3 developers.
+
+        **Stack:** PHP, Yii2, PostgreSQL, Memcached
+
+        ---
+    - role: Senior Developer
+      time: June 2014 - November 2015
+      company: Interlot, Moscow, Russian Federation
+      details: |
+        **Responsibilities:**
+        - Front-end (JavaScript, Backbone.js) and back-end (PHP) development.
+        - Managing Linux servers.
+        - Network infrastructure planning and configuration.
+        - Performance testing, back-end bottlenecks analysis.
+
+        **Achievements:**
+        - Two full infrastructure migrations to different data centers with zero downtime.
+
+        **Stack:** PHP, MySQL, RabbitMQ
+
+        ---
+    - role: IT Manager
+      time: October 2013 - June 2014
+      company: ForEveryDay, Moscow, Russian Federation
+      details: |
+        **Responsibilities:**
+        - Development tasks decomposition and planning. Managing of 2 developers.
+        - Development of store's back-end systems.
+        - DBA (MySQL).
+        - Systems administrator (FreeBSD).
+        - Office network support (Mikrotik).
+
+        **Achievements:**
+        - Version control system deployed (Git).
+        - Agile development deployed (SCRUM).
+
+        **Stack:** PHP, MySQL
+
+        ---
+    - role: IT Manager
+      time: October 2012 - June 2013
+      company: Retailplus Joint Venture with The Nielsen Company, Moscow, Russian Federation
+      details: |
+        **Responsibilities:**
+        - IT budgeting
+        - Costs optimization
+        - Hiring.
+        - Vendor negotiation on hardware, software, services.
+        - Development planning and task decomposition.
+        - DBA (Oracle).
+        - Reports construction (Oracle BI).
+
+        **Stack:** Oracle Database, Oracle BI
+
+        ---
+    - role: Senior Developer
+      time: May 2009 - October 2012
+      company: Samsung Electronics, Kaluga region, Russian Federation
+      details: |
+        **Responsibilities:**
+        - Development of a web-based MES, WMS systems and an intranet portal for local staff.
+        - Database schema planning (MySQL, MS SQL, Oracle).
+        - DBA (MySQL).
+        - Administration of Windows servers (2003, 2008).
+
+        **Achievements:**
+        - Gained knowledge of different database systems (MySQL, MS SQL, Oracle).
+        - Gained ERP systems experience: SAP, 1C.
+        - Gained experience of a production process at a major factory.
+        - Developed a web-based MES and WMS systems with an active usage of barcode scanners,
+        - barcode printers, RFID equipment and integrated them with SAP ERP.
+        - Developed an intranet portal for local staff integrated with 1C ERP.
+        - Deployment of our MES and WMS systems to four partner vendors.
+        - Development of information kiosks for local staff.
+
+        **Stack:** PHP, MySQL, MS SQL, Oracle Database
+
+        ---
+    - role: Network Engineer
+      time: January 2008 - January 2009
+      company: Fibercom (then Falcon-S), Moscow, Russian Federation
+      details: |
+        **Responsibilities:**
+        - Technical support of Edge-Code and SMC network equipment (switches, telephony)
+        for business clients.
+        - Network lab testing.
+        - Escalating problems to upstream vendor.
+
+        **Achievements:**
+        - Gained huge knowledge of various network protocols on different OSI levels.
+        - Gained experience with a lot of different network equipment.
+
+        ---
+    - role: Network Engineer
+      time: August 2007 - November 2007
+      company: Teleinform, Moscow, Russian Federation
+      details: |
+        **Responsibilities:**
+        - L2/L3 network support.
+        - Configuration of various network equipment (switches, routers).
+        - Development of a local web-project to make network configuration
+        and equipment inventory easier.
+
+        **Achievements:**
+        - Gained deep knowledge of building and maintaining L2/L3 networks.
+        - Gained deep knowledge of various network routing protocols (OSPF, BGP).
+        - Gained deep knowledge of various network equipment.
+
+        ---
+    - role: Systems Administrator
+      time: September 2006 - April 2007
+      company: Moscow State University of Management, Moscow, Russian Federation
+      details: |
+        **Responsibilities:**
+        - Managing servers (Linux, FreeBSD, Windows).
+        - End-user technical support (work PCs, printers).
+
+        **Achievements:**
+        - Gained experience with Linux, FreeBSD, network equipment.
+        - Configured a complex unix mail server with spam and antivirus protection.
+
+        ---
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: PHP
+        level: 90%
+
+      - name: Symfony
+        level: 75%
+
+      - name: Laravel
+        level: 50%
+
+      - name: Go
+        level: 40%
+
+      - name: MySQL
+        level: 80%
+
+      - name: PostgreSQL
+        level: 70%
+
+      - name: ElasticSearch
+        level: 60%
+
+      - name: Queues and Messaging
+        level: 70%
+
+      - name: Docker
+        level: 80%
+
+      - name: Linux
+        level: 90%
+
+      - name: Networks
+        level: 85%
+
+footer: >
+    Copyright © 2021 Dmitry Baranov. All Rights Reserved.
