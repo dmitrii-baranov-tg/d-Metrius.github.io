@@ -1,9 +1,12 @@
 remote_theme: sharu725/online-cv
-title: Dmitry Baranov CV
-url: 'http://d-Metrius.github.io'
-#baseurl: '/online-cv'
-description: Dmitry Baranov CV
-theme_skin: ceramic # blue turquoise green berry orange ceramic
+title: Dmitry Baranov - Senior Backend Developer (PHP, Go) - CV
+url: 'http://baranov.in/'
+description: |
+  Personal Web CV of Dmitry Baranov - Senior Backend Developer (PHP, Go).
+  I have a huge experience developing complex PHP applications using Symfony framework.
+  Key skills: PHP, Go, Symfony, MySQL, PostgreSQL, ElasticSearch, RabbitMQ, Redis, Docker,
+  Linux, Networks.
+theme_skin: ceramic
 
 sass:
   sass_dir: _sass
