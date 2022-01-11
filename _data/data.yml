@@ -37,7 +37,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Total IT work experience: 14 years.
+      Total IT work experience: 16 years.
       
       My first big project was development of MES and WMS systems at a Samsung Electronics
       production factory in Kaluga region, Russia. It was done as several intranet websites
@@ -65,6 +65,8 @@ experiences:
       company: TransferGo, London, UK
       details: |
         **CoreBanking team** - development of core banking services with TDD and DDD in mind.
+        Developed core "Wallet" functionality to be used by our apps/services.
+        Taking part in split to microservices project.
 
         ---
     - role: Remote Senior PHP Developer
@@ -258,4 +260,4 @@ skills:
         level: 85%
 
 footer: >
-    Copyright © 2021 Dmitry Baranov. All Rights Reserved.
+    Copyright © 2022 Dmitry Baranov. All Rights Reserved.
