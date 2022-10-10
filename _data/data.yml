@@ -23,7 +23,7 @@ sidebar:
 
       - idiom: Italian
         level: Basic
-
+        
     interests:
       - item: Running
         link: https://www.strava.com/athletes/d-metrius
@@ -60,8 +60,17 @@ career-profile:
       application with advanced property search mechanisms and complete tests coverage.
 
 experiences:
+    - role: Lead Back-End Engineer
+      time: October 2022 - Present
+      company: TransferGo, Vilnius, Lithuania
+      details: |
+        **Banking Services team** - development of core banking services with TDD and DDD in mind.
+        Developed core "Wallet" functionality to be used by our apps/services.
+        Taking part in split to microservices project.
+
+        ---
     - role: Senior Back-End Engineer
-      time: June 2022 - Present
+      time: June 2022 - October 2022
       company: TransferGo, Vilnius, Lithuania
       details: |
         **Banking Services team** - development of core banking services with TDD and DDD in mind.
