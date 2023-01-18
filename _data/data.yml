@@ -20,6 +20,9 @@ sidebar:
 
       - idiom: English
         level: Fluent
+        
+      - idiom: Lithuanian
+        level: Basic
 
       - idiom: Italian
         level: Basic
@@ -281,4 +284,4 @@ skills:
         level: 85%
 
 footer: >
-    Copyright © 2022 Dmitry Baranov. All Rights Reserved.
+    Copyright © 2023 Dmitry Baranov. All Rights Reserved.
