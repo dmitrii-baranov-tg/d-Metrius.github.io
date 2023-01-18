@@ -15,27 +15,31 @@ sidebar:
     twitter: "@ddMetrius"
 
     languages:
-      - idiom: Russian
-        level: Native
+      title: Languages
+      info:
+        - idiom: Russian
+          level: Native
 
-      - idiom: English
-        level: Fluent
-        
-      - idiom: Lithuanian
-        level: Basic
+        - idiom: English
+          level: Fluent
 
-      - idiom: Italian
-        level: Basic
+        - idiom: Lithuanian
+          level: Basic
+
+        - idiom: Italian
+          level: Basic
 
     interests:
-      - item: Running
-        link: https://www.strava.com/athletes/d-metrius
+      title: Interests
+      info:
+        - item: Running
+          link: https://www.strava.com/athletes/d-metrius
 
-      - item: Cycling (MTB)
-        link: https://www.strava.com/athletes/d-metrius
+        - item: Cycling (MTB)
+          link: https://www.strava.com/athletes/d-metrius
 
-      - item: DIY electronics
-        link:
+        - item: DIY electronics
+          link:
 
 career-profile:
     title: Career Profile
